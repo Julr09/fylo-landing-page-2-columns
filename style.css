@@ -286,6 +286,9 @@ em {
     margin: 0 0 1rem 0;
     color: var(--Light-Grayish-Blue);
     font-size: 1rem;
+}
+
+li span {
     cursor: pointer;
 }
 
